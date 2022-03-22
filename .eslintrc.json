@@ -12,6 +12,8 @@
     },
     "rules": {
         "linebreak-style" : "off",
-        "indent" : "off"
+        "indent" : "off",
+        "require-jsdoc" : "off",
+        "max-len": "off"
     }
 }
